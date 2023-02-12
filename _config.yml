@@ -22,7 +22,7 @@ title: Tech Stuff by jgreat
 email: jgreat@jgreat.me
 description: >-
   Tech blog and stuff for jgreat. Docker Kubernetes AWS Containers Azure Linux
-baseurl: "/"
+baseurl: ""
 url: "https://jgreat.github.io"
 twitter_username: usrbinjgreat
 github_username:  jgreat
